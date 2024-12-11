@@ -1,0 +1,5 @@
+pure-python-adb==0.3.0.dev0
+pillow==10.1.0
+colorama==0.4.6
+opencv-python==4.8.1.78
+numpy==1.26.2
